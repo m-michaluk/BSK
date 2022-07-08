@@ -1,0 +1,10 @@
+Zdobyte flagi:
+
+Flaga 1:
+flag{s1mUl4teD_BOF_in_PyTH0n}
+
+Flaga 2:
+flag{6ae29f75814549cc9094b8c11dbe22ee}
+
+Flaga 3:
+flag{7h4t_K3y_wAsNT_r34l1y_rAnd0M}
